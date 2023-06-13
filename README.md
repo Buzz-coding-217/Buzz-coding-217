@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shravel-sharma-596933240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shravel-sharma-596933240" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@shravelsharma501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@shravelsharma501" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCH5kFt2GW9B-dI0DZXYD_lA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@shravelsharma501" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shravel4791_be21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shravel4791_be21" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shravel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shravel" height="30" width="40" /></a>
 </p>
