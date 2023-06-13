@@ -1,5 +1,5 @@
 <h1 align="center">👋, I'm Shravel Sharma</h1>
-<h3 align="center">A passionate Software Developer Student</h3>
+<h3 align="center">A passionate Software Developer Student</h3> 
 
 - 🌱 I’m currently learning **MERN, Machine Learning, Robotics and DSA**
 
